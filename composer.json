@@ -1,0 +1,14 @@
+{
+    "name": "belgian/config",
+    "authors": [
+        {
+            "name": "Estefanio NS",
+            "email": "estefanions@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Belgian\\Config\\": "Belgian/Config/"
+        }
+    }
+}
